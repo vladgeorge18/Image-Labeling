@@ -10,11 +10,12 @@ can be specified for more precision
 
 ![ai](https://github.com/vladgeorge18/Image-Labeling/assets/116036453/62a46904-797e-48f3-8547-7afd575f687b)
 
-![ai2](https://github.com/vladgeorge18/Image-Labeling/assets/116036453/cf16b894-f106-4986-9f6a-cda46173cec7)
+<img src="https://github.com/vladgeorge18/Image-Labeling/assets/116036453/cf16b894-f106-4986-9f6a-cda46173cec7" width="300" />
 
-![ai3](https://github.com/vladgeorge18/Image-Labeling/assets/116036453/b272a285-2cff-4a97-8549-7e480b453dfc)
+<img src="https://github.com/vladgeorge18/Image-Labeling/assets/116036453/b272a285-2cff-4a97-8549-7e480b453dfc" width="300" />
 
-![ai4](https://github.com/vladgeorge18/Image-Labeling/assets/116036453/45cfe18b-8a67-4312-ba9f-2b043606c8c0)
+<img src="https://github.com/vladgeorge18/Image-Labeling/assets/116036453/45cfe18b-8a67-4312-ba9f-2b043606c8c0" width="300" />
+
 
 More details about the implementation and results can be found in the report.
 
