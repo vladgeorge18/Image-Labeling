@@ -8,7 +8,8 @@ Our tool is able to return images given a query like: name of the color (ex:Pink
 (ex: Jeans, Dress), name of the cloth plus color (ex: Black Dress). A percentage for each category 
 can be specified for more precision
 
-![ai](https://github.com/vladgeorge18/Image-Labeling/assets/116036453/62a46904-797e-48f3-8547-7afd575f687b)
+![ai](https://github.com/vladgeorge18/Image-Labeling/assets/116036453/31a4b435-f188-4770-8372-b89ccb58fe4d)
+
 
 <img src="https://github.com/vladgeorge18/Image-Labeling/assets/116036453/cf16b894-f106-4986-9f6a-cda46173cec7" width="300" />
 
