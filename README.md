@@ -1,4 +1,4 @@
-# Image Retrieval
+# Image Labelling
 
 In this project, we tackle the task of image labeling, essential for applications like image 
 search engines and object recognition in computer vision. Our approach combines two 
